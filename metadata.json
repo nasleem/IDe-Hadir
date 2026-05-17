@@ -1,0 +1,6 @@
+{
+  "name": "iAttendance",
+  "description": "Employee Attendance System with GPS Geofencing and iDempiere REST API integration",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
